@@ -1,4 +1,4 @@
-# quick phishing checker for the mail export - L. Garcia, march 2025
+# quick phishing checker for the mail export - L. Garcia, march 2025 - LAB
 # TODO: make this nicer at some point
 import re
 import os
